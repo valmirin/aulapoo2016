@@ -17,9 +17,6 @@ import tarefas.Tarefa9;
  */
 public class Principal {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Tarefa1 tarefa1 = new Tarefa1();
         Tarefa2 tarefa2 = new Tarefa2();
